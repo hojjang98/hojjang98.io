@@ -17,7 +17,7 @@ title: "데이터 사이언스 여정"
 email: 'ghwns970821@gmail.com'
 description: "데이터 사이언티스트로 가는 작은 발걸음"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hojjang98.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://hojjang98.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'hojjang98'
 medium_username: ''
