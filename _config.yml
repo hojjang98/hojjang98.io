@@ -92,9 +92,9 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+footer_text: '© 2024 Hojun Choi'
+admin_name: 'Hojun Choi'
+google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
