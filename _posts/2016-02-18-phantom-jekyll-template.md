@@ -5,7 +5,7 @@ title: 'Kaggle Competiton'
 date: 2024-07-10 12:00:00
 categories: data-science-classification
 tags: Kaggle Python Classification
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
+featured_image: 'https://raw.githubusercontent.com/hojjang98/hojjang98.github.io/main/img/posts/Kaggle_logo.svg'
 project_link: 'https://github.com/hojjang98/Kaggle_Competition'
 button_icon: 'flask'
 button_text: 'Visit Project'
