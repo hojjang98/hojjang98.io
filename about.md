@@ -11,9 +11,10 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-# Header 1
+## About me 
+안녕하세요! 저는 빅데이터, 정보보호학과를 전공하고 있는 **최호준** 입니다.
+원래는 독일의 University of Mannheim에서 경영학을 전공하다가 중퇴 후, 자영업을 하며 데이터사이언스에 관심을 가지게 되어 공부하고 있습니다.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
