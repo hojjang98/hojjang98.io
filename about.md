@@ -23,20 +23,20 @@ There should be whitespace between paragraphs.
 - **서울사이버대학교** (2023~)  
   전공: **빅데이터, 정보보호학**
 
+
 ## 경력
 **자영업** (2022~)
 - 직접 경영체를 운영하며 통찰력과 분석으로 수익을 3배 이상 이끌어내고 유지 중임
+
 
 ## 기술 스택
 - **Programming Languages**: Python, SQL
 - **Tools & Frameworks**: TensorFlow, Pandas, Tableau, Git, NumPy, Matplotlib
 
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 관심 분야
+- 인공지능, 머신러닝, 빅 데이터 분석, 감정분석
+- 창의적인 데이터 분석을 통한 인사이트 창출과 빅데이터 감정분석을 통한 인간의 행복 증진에 관심
 
 ###### Header 6
 
