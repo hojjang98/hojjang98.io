@@ -5,7 +5,7 @@ title: 'Upcoming Projects'
 date: 2024-12-06
 categories: future-projects
 tags: MachineLearning AI Development
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+featured_image: 'https://raw.githubusercontent.com/hojjang98/hojjang98.github.io/main/img/posts/subway.jpg'
 project_link: 'https://github.com/hojjang98/future-projects'
 button_icon: 'github'
 button_text: 'Stay Tuned'
