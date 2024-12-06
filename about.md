@@ -7,7 +7,7 @@ permalink: /about/
 
 저라는 사람에 대한 간단한 설명입니다!
 
-[Link to another page](/index.html).
+[홈에서 더 자세한 내용 확인하기](https://hojjang98.github.io/)
 
 
 ## About me 
