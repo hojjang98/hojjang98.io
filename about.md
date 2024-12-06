@@ -16,11 +16,12 @@ There should be whitespace between paragraphs.
 원래는 독일의 University of Mannheim에서 경영학을 전공하다가 중퇴 후, 자영업을 하며 데이터사이언스에 관심을 가지게 되어 공부하고 있습니다.
 
 
-## Header 2
+## 교육
+- **University of Mannheim** (2018-2021) 중퇴  
+  전공: **경영학**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **서울사이버대학교** (2023~)  
+  전공: **빅데이터, 정보보호학**
 
 ### Header 3
 
