@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
-date: 2016-02-20 14:15:00
-categories: development
-tags: JavaScript AngularJS Sass Grunt
+title: 'Upcoming Projects'
+date: 2024-12-06
+categories: future-projects
+tags: MachineLearning AI Development
 featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
 project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
 button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+button_text: 'Stay Tuned'
+lead_text: "Plans for future projects, including advanced AI models and innovative applications in business analytics."
 ---
