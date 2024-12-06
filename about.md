@@ -5,11 +5,10 @@ permalink: /about/
 ---
 ## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+저라는 사람에 대한 간단한 설명입니다!
 
 [Link to another page](/index.html).
 
-There should be whitespace between paragraphs.
 
 ## About me 
 안녕하세요! 저는 빅데이터, 정보보호학과를 전공하고 있는 **최호준** 입니다.
