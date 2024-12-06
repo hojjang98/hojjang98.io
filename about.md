@@ -27,11 +27,10 @@ There should be whitespace between paragraphs.
 **자영업** (2022~)
 - 직접 경영체를 운영하며 통찰력과 분석으로 수익을 3배 이상 이끌어내고 유지 중임
 
-#### Header 4
+## 기술 스택
+- **Programming Languages**: Python, SQL
+- **Tools & Frameworks**: TensorFlow, Pandas, Tableau, Git, NumPy, Matplotlib
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
