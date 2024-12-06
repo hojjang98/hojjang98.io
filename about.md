@@ -24,6 +24,7 @@ permalink: /about/
 
 
 ## 경력
+
 **자영업** (2022~)
 - 직접 경영체를 운영하며 통찰력과 분석으로 수익을 3배 이상 이끌어내고 유지 중임
 
@@ -37,14 +38,10 @@ permalink: /about/
 - 인공지능, 머신러닝, 빅 데이터 분석, 감정분석
 - 창의적인 데이터 분석을 통한 인사이트 창출과 빅데이터 감정분석을 통한 인간의 행복 증진에 관심
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Language Skills
+- 한국어, Deutsch(독일어), English
+
 
 ### There's a horizontal rule below this.
 
