@@ -23,22 +23,9 @@ There should be whitespace between paragraphs.
 - **서울사이버대학교** (2023~)  
   전공: **빅데이터, 정보보호학**
 
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+## 경력
+**자영업** (2022~)
+- 직접 경영체를 운영하며 통찰력과 분석으로 수익을 3배 이상 이끌어내고 유지 중임
 
 #### Header 4
 
